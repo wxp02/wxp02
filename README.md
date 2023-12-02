@@ -16,4 +16,9 @@ I'm a junior at the University of Waterloo, passionate about software and data e
 
 - Junior at the University of Waterloo
 
+## 📫 Let's Connect!
+
+- LinkedIn: [Wenxu Poh](https://www.linkedin.com/in/wenxu-p-1833291ab/)
+- Email: wxpoh@uwaterloo.ca
+
 Feel free to reach out for collaboration, opportunities, or just a friendly chat! 😊
