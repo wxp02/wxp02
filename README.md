@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Wenxu! 👋
 
-<!--
-**wxp02/wxp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior at the University of Waterloo, passionate about software and data engineering. Aspiring to create meaningful solutions and explore the vast world of technology.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, TypeScript, Swift, SQL
+- **Frameworks/Libraries:** React.js, Next.js, Flask, Pandas, NumPy, SwiftUI
+
+## 🌱 Current Focus
+
+- Strengthening my foundation in software and data engineering
+- Exploring new technologies and frameworks to expand my skill set
+
+## 📚 Education
+
+- Junior at the University of Waterloo
+
+Feel free to reach out for collaboration, opportunities, or just a friendly chat! 😊
