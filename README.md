@@ -1,4 +1,4 @@
-# Hi there, I'm Wenxu! 👋
+# Hi there, I'm Jeremy! 👋
 
 I'm a junior at the University of Waterloo, passionate about software and data engineering. Aspiring to create meaningful solutions and explore the vast world of technology.
 
@@ -18,7 +18,6 @@ I'm a junior at the University of Waterloo, passionate about software and data e
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Wenxu Poh](https://www.linkedin.com/in/wenxu-p-1833291ab/)
-- Email: wxpoh@uwaterloo.ca
+- Email: jeremypwx@gmail.com
 
 Feel free to reach out for collaboration, opportunities, or just a friendly chat! 😊
