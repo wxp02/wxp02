@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌟 Hi, I am Jeremy! I am an aspiring Software/Data/Analytics Engineer.
+
 💼 I am currently studying Math, Computing, Economics at University of Waterloo.
+
 ☁️ Currently, I'm learning more about cloud (AWS, GCP, Azure).
 
 
